@@ -1,5 +1,5 @@
 .data
-   mensagem: .asciiz "Hello World  \n"
+   mensagem: .asciiz "5"
    
 .text
    li $v0, 4 
